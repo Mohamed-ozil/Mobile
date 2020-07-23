@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string-array name="unit_arrays">
+        <item>KM to Miles</item>
+        <item>KM to CM</item>
+        <item>KM to M</item>
+    </string-array>
+</resources>
